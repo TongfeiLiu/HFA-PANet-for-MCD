@@ -128,4 +128,26 @@ Binary Change Maps: Thresholded maps showing detected changes.
 
 Performance Metrics: A txt file containing Overall Accuracy, recall, CIOU, and F1 score, etc.
 
+## Citation
+If you find our work useful for your research, please consider citing our paper:
+```
+@article{PR2025HFA-PANet,
+title = {Hierarchical Feature Alignment-based Progressive Addition Network for Multimodal Change Detection},
+journal = {Pattern Recognition},
+volume = {162},
+pages = {111355},
+year = {2025},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2025.111355},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320325000159},
+author = {Tongfei Liu and Yan Pu and Tao Lei and Jianjian Xu and Maoguo Gong and Lifeng He and Asoke K. Nandi},
+keywords = {Multimodal change detection, Heterogeneous change detection, Heterogeneous images, Feature alignment, Multiple kernel maximum mean discrepancy}
+}
+```
 
+## Contact us 
+
+If you have any problems when running the code, please do not hesitate to contact us. Thanks.  
+E-mail: liutongfei_home@hotmail.com
+
+Date: June 4, 2025  
