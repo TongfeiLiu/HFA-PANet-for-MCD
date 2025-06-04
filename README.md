@@ -28,7 +28,7 @@ This repository contains a PyTorch implementation of HFA-PANet.
 ## Introduction
 
 Multimodal change detection involves identifying changes between images captured at different times and using different sensors (e.g., optical and SAR). Although some patch-level MCD methods have been reported, there are still few studies on large-scale image-level MCD methods. The main challenge of MCD is that it is more difficult to capture the differences between different modality images than heterogeneous BTIs. To address the challenge, this paper proposes a novel non-Siamese Hierarchical Feature Alignment-based Progressive Addition Network (HFA-PANet) for MCD. In the proposed HFA-PANet, two novel modules are devised to elevate the difference features of multimodal BTIs, thereby improving its change extraction capability. The framework of the proposed HFA-PANet is presented as follows:
-
+![Framework of our proposed HFA-PANet)](https://github.com/TongfeiLiu/HFA-PANet-for-MCD/blob/main/Fig/Fig2-Framework.png)
 
 ## Requirements
 <ul>
